@@ -1,0 +1,1 @@
+Um host transmite uma mensagem para todos os hosts no mesmo segmento de rede sem uma ordem específica para transmitir dados. No caso do exemplo, o host 0 transmite a mensagem para o receptor 1 e 3, tornando-os transmissores para os pontos 2 e 4, utilizando o sismtema FIFO. 

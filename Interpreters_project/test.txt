@@ -1,0 +1,3 @@
+imprima(a)
+leia(b)
+inteiro:c
